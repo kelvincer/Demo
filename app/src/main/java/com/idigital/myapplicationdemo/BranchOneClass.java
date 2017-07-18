@@ -8,5 +8,4 @@ public class BranchOneClass {
 
     String one;
     String two;
-
 }
