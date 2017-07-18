@@ -7,5 +7,6 @@ package com.idigital.myapplicationdemo;
 public class BranchOneClass {
 
     String one;
+    String two;
 
 }
