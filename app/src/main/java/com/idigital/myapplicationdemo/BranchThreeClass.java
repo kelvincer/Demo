@@ -5,4 +5,6 @@ package com.idigital.myapplicationdemo;
  */
 
 public class BranchThreeClass {
+
+    String three;
 }
